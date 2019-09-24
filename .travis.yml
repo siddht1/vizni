@@ -1,0 +1,8 @@
+language: node_js
+dist: xenial
+node_js:
+  - "10.16.3"
+install:
+  -  npm install connect serve-static
+script:
+  - node travis.js

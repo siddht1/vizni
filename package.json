@@ -1,0 +1,29 @@
+{
+  "name": "zygolo",
+  "version": "1.0.0",
+  "description": "Visualization",
+  "main": "8888",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "serve-static": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js",
+    "build": "npm install connect serve-static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZYgolo/Visualization.git"
+  },
+  "keywords": [
+    "zygolo"
+  ],
+  "author": "Siddharth",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ZYgolo/Visualization/issues"
+  },
+  "homepage": "https://github.com/ZYgolo/Visualization#readme"
+}
