@@ -1,0 +1,552 @@
+{
+    "title": "delhi metro",
+    "stations": [
+    {
+        "label": "Adarsh Nagar",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "AIIMS",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Akshardham",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Anand Vihar",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Arjan Garh",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Ashok Park Main",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Azadpur",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Badarpur",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Barakhambha Road",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Botanical Garden",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Central Secretariat",
+        "lines": ["Yellow", "Violet"]
+    },
+    {
+        "label": "Chandni Chowk",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Chhatarpur",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Chawri Bazar",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Civil Lines",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Delhi Aerocity",
+        "lines": ["Airport"]
+    },
+    {
+        "label": "Dhaula Kuan",
+        "lines": ["Airport"]
+    },
+    {
+        "label": "Dilshad Garden",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Dwarka",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Dwarka Morh",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Dwarka Sector 10",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Dwarka Sector 11",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Dwarka Sector 12",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Dwarka Sector 13",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Dwarka Sector 14",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Dwarka Sector 21",
+        "lines": ["Blue", "Airport"]
+    },
+    {
+        "label": "Dwarka Sector 8",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Dwarka Sector 9",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Ghitorni",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Govind Puri",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Green Park",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "GTB Nagar",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Guru Dronacharya",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Hauz Khas",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "HUDA City Centre",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "IFFCO Chowk",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "INA",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Inderlok",
+        "lines": ["Red", "Green"]
+    },
+    {
+        "label": "Indira Gandhi International Airport",
+        "lines": ["Airport"]
+    },
+    {
+        "label": "Indraprastha",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Jahangirpuri",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Janakpuri East",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Janakpuri West",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Jangpura",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Jasola Apollo",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Jawaharlal Nehru Stadium",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Jhandewalan",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Jhilmil",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Jor Bagh",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Kailash Colony",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Kalkaji Mandir",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Kanhiya Nagar",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Karkarduma",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Karol Bagh",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Kashmere Gate",
+        "lines": ["Red", "Yellow"]
+    },
+    {
+        "label": "Kaushambi",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Keshav Puram",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Khan Market",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Kirti Nagar",
+        "lines": ["Blue", "Green"]
+    },
+    {
+        "label": "Kohat Enclave",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Lajpat Nagar",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Laxmi Nagar",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Madipur",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Malviya Nagar",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Mandi House",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Mansarovar Park",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Mayur Vihar -I",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Mayur Vihar Extension",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "MG Road",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Model Town",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Mohan Estate",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Moolchand",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Moti Nagar",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Mundka",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Nangloi",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Nangloi Railway station",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Nawada",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Nehru Place",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Netaji Subhash Place",
+        "lines": ["Red"]
+    },
+    {
+        "label": "New Ashok Nagar",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "New Delhi",
+        "lines": ["Yellow", "Airport"]
+    },
+    {
+        "label": "Nirman Vihar",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Noida City Centre",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Noida Golf Course",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Noida Sector 15",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Noida Sector 16",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Noida Sector 18",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Okhla",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Paschim Vihar East",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Paschim Vihar West",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Patel Chowk",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Patel Nagar",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Peera Garhi",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Pitam Pura",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Pragati Maidan",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Pratap Nagar",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Preet Vihar",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Pul Bangash",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Punjabi Bagh East",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Qutab Minar",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Race Course",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Rajdhani Park",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Rajendra Place",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Rajiv Chowk",
+        "lines": ["Yellow", "Blue"]
+    },
+    {
+        "label": "Rajouri Garden",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Ramakrishna Ashram Marg",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Ramesh Nagar",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Rithala",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Rohini East",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Rohini West",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Saket",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Sarita Vihar",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Satguru Ramsingh Marg",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Seelampur",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Shadipur",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Shahdara",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Shastri Nagar",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Shastri Park",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Shivaji Park",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Shivaji Stadium",
+        "lines": ["Airport"]
+    },
+    {
+        "label": "Sikandarpur",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Subhash Nagar",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Sultanpur",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Surajmal Stadium",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Tagore Garden",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Tilak Nagar",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Tis Hazari",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Tughlakabad",
+        "lines": ["Violet"]
+    },
+    {
+        "label": "Udyog Bhawan",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Udyog Nagar",
+        "lines": ["Green"]
+    },
+    {
+        "label": "Uttam Nagar East",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Uttam Nagar West",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Vaishali",
+        "lines": ["Blue"]
+    },
+    {
+        "label": "Vidhan Sabha",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Vishwa Vidyalaya",
+        "lines": ["Yellow"]
+    },
+    {
+        "label": "Welcome",
+        "lines": ["Red"]
+    },
+    {
+        "label": "Yamuna Bank",
+        "lines": ["Blue"]
+    }]
+}
