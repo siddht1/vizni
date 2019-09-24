@@ -1,7 +1,7 @@
 {
   "name": "zygolo",
   "version": "1.0.0",
-  "description": "Visualization",
+  "description": "Vizni",
   "main": "8888",
   "dependencies": {
     "connect": "^3.7.0",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZYgolo/Visualization.git"
+    "url": "git+https://github.com/ZYgolo/vizni.git"
   },
   "keywords": [
     "zygolo"
   ],
-  "author": "Siddharth",
-  "license": "UNLICENSED",
+  "author": " Brian Foo ,  mod by SIDDHARTH",
+  "license": " https://github.com/beefoo/memory-underground/blob/master/license.txt",
   "bugs": {
-    "url": "https://github.com/ZYgolo/Visualization/issues"
+    "url": "https://github.com/ZYgolo/vizni/issues"
   },
-  "homepage": "https://github.com/ZYgolo/Visualization#readme"
+  "homepage": "https://github.com/ZYgolo/vizni#readme"
 }
