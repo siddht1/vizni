@@ -12,17 +12,7 @@
       "start": "vercel dev",
     "build": "npm install connect serve-static"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ZYgolo/vizni.git"
-  },
-  "keywords": [
-    "zygolo"
-  ],
-  "author": " Brian Foo ,  mod by SIDDHARTH",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ZYgolo/vizni/issues"
-  },
-  "homepage": "https://github.com/ZYgolo/vizni#readme"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
