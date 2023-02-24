@@ -37,6 +37,18 @@
 			]
 		},
 		{
+			"label": "S6 RNC",
+			"lines": [
+				"route_4"
+			]
+		},
+		{
+			"label": "T1 RNC",
+			"lines": [
+				"route_4"
+			]
+		},
+		{
 			"label": "RNC VASHI BORDER",
 			"lines": [
 				"route_1"
@@ -115,18 +127,7 @@
 				"route_3","route_4"
 			]
 		},
-		{
-			"label": "S6 RNC",
-			"lines": [
-				"route_4"
-			]
-		},
-		{
-			"label": "T1 RNC",
-			"lines": [
-				"route_4"
-			]
-		},
+
 		{
 			"label": "N BNG",
 			"lines": [
