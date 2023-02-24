@@ -1,11 +1,9 @@
 
 async function  __data()
 {
-  __file='/data/delhi.json'
+  __file='/data/rt1yrru.json'
    get_data(__file)
-      // console.log(typeof(data))
-      // load_json_xhr(__file)
-      // nsc(data)
+
     
     
   }
