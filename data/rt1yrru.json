@@ -8,10 +8,11 @@
 	    {   "label":"MID RNC",
 	    "lines":["route_1"]
 	    },
-	     {   "label":"OUTER RNC",
+	    
+	        {   "label":"S7 RNC",
 	    "lines":["route_1"]
 	    },
-	        {   "label":"S7 RNC",
+	     {   "label":"OUTER RNC",
 	    "lines":["route_1"]
 	    },
 	        {   "label":"RNC VASHI BORDER",
@@ -25,6 +26,18 @@
 	    },
 	        {   "label":"VASHI MAIN",
 	    "lines":["route_1","route_2"]
+	    },
+	     {   "label":"S10 RNC",
+	    "lines":["route_2"]
+	    },
+	     {   "label":"DEL",
+	    "lines":["route_2"]
+	    },
+	     {   "label":"GGN",
+	    "lines":["route_2"]
+	    },
+	     {   "label":"MUMB",
+	    "lines":["route_2"]
 	    }
 	
 	
