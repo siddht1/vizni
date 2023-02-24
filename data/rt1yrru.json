@@ -3,7 +3,7 @@
     "stations": [
     {
         "label": "S3 main",
-        "lines": ["route_1","route_2","route_3","route_4","route_5"]
+        "lines": ["route_1","route_2","route_3","route_4","route_5","route_6","route_7","route_8","route_9"]
     }
 	    ]
 }
