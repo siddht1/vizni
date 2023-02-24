@@ -1,75 +1,150 @@
 {
 	"title": " RT1yrru",
-	"stations": [{
+	"stations": [
+		{
 			"label": "S3 RNC",
-			"lines": ["route_1", "route_2", "route_3", "route_4", "route_5", "route_6", "route_7", "route_8", "route_9"]
+			"lines": [
+				"route_1",
+				"route_2",
+				"route_3",
+				"route_4",
+				"route_5",
+				"route_6",
+				"route_7",
+				"route_8",
+				"route_9"
+			]
 		},
 		{
 			"label": "MID RNC",
-			"lines": ["route_1", "route_2", "route_3", "route_4"]
+			"lines": [
+				"route_1",
+				"route_2",
+				"route_3",
+				"route_4"
+			]
 		},
-
 		{
 			"label": "S7 RNC",
-			"lines": ["route_1"]
+			"lines": [
+				"route_1"
+			]
 		},
 		{
 			"label": "OUTER RNC",
-			"lines": ["route_1"]
+			"lines": [
+				"route_1"
+			]
 		},
 		{
 			"label": "RNC VASHI BORDER",
-			"lines": ["route_1"]
+			"lines": [
+				"route_1"
+			]
 		},
 		{
 			"label": "I7 VASHI",
-			"lines": ["route_1"]
+			"lines": [
+				"route_1"
+			]
 		},
 		{
 			"label": "I3 VASHI",
-			"lines": ["route_1"]
+			"lines": [
+				"route_1"
+			]
 		},
-
 		{
 			"label": "S10 RNC",
-			"lines": ["route_2"]
+			"lines": [
+				"route_2"
+			]
 		},
 		{
 			"label": "DEL",
-			"lines": ["route_2"]
+			"lines": [
+				"route_2"
+			]
 		},
 		{
 			"label": "GGN",
-			"lines": ["route_2"]
+			"lines": [
+				"route_2"
+			]
 		},
 		{
 			"label": "MUMB",
-			"lines": ["route_2"]
+			"lines": [
+				"route_2"
+			]
 		},
 		{
 			"label": "VASHI MAIN",
-			"lines": ["route_1", "route_2"]
+			"lines": [
+				"route_1",
+				"route_2"
+			]
 		},
-
 		{
-			"label": "S8 RNC",
-			"lines": ["route_3"]
-
-		}, {
+			"label": "S10 RNC",
+			"lines": [
+				"route_3"
+			]
+		},
+		{
 			"label": "ROU",
-			"lines": ["route_3"]
+			"lines": [
+				"route_3"
+			]
 		},
 		{
 			"label": "VSKP",
-			"lines": ["route_3"]
-		}, {
+			"lines": [
+				"route_3"
+			]
+		},
+		{
 			"label": "VZN",
-			"lines": ["route_3"]
-		}, {
+			"lines": [
+				"route_3"
+			]
+		},
+		{
 			"label": "CHN",
-			"lines": ["route_3"]
+			"lines": [
+				"route_3","route_4"
+			]
+		},
+		{
+			"label": "S6 RNC",
+			"lines": [
+				"route_4"
+			]
+		},
+		{
+			"label": "T1 RNC",
+			"lines": [
+				"route_4"
+			]
+		},
+		{
+			"label": "N BNG",
+			"lines": [
+				"route_4"
+			]
+		},
+		{
+			"label": "S BNG",
+			"lines": [
+				"route_4","route_10"
+			]
+		},
+		{
+			"label": "MAS",
+			"lines": [
+				"route_4"
+			]
 		}
-
 
 	]
 }
