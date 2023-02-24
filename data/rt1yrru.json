@@ -24,9 +24,7 @@
 	        {   "label":"I3 VASHI",
 	    "lines":["route_1"]
 	    },
-	        {   "label":"VASHI MAIN",
-	    "lines":["route_1","route_2"]
-	    },
+	
 	     {   "label":"S10 RNC",
 	    "lines":["route_2"]
 	    },
@@ -38,8 +36,10 @@
 	    },
 	     {   "label":"MUMB",
 	    "lines":["route_2"]
-	    }
-	
+	    },
+	        {   "label":"VASHI MAIN",
+	    "lines":["route_1","route_2"]
+}
 	
 	
 	    ]
