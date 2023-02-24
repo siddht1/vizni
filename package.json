@@ -1,29 +1,11 @@
+
 {
-  "name": "zygolo",
-  "version": "1.0.0",
-  "description": "Vizni",
-  "main": "8888",
-  "dependencies": {
-    "connect": "^3.7.0",
-    "serve-static": "^1.14.1"
-  },
-  "devDependencies": {},
+  "name": "VIZNI ",
+  "description": "Convert a list of memories into a subway map",
   "scripts": {
-    "test": "node server.js",
-    "start": "node server.js",
-    "build": "npm install connect serve-static"
+    "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ZYgolo/vizni.git"
-  },
-  "keywords": [
-    "zygolo"
-  ],
-  "author": " Brian Foo ,  mod by SIDDHARTH",
-  "license": " https://github.com/beefoo/memory-underground/blob/master/license.txt",
-  "bugs": {
-    "url": "https://github.com/ZYgolo/vizni/issues"
-  },
-  "homepage": "https://github.com/ZYgolo/vizni#readme"
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
 }
