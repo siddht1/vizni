@@ -144,8 +144,18 @@
 				{
 			"label": "CHN",
 			"lines": [
-				"route_3","route_4"
+				"route_3","route_4","route_11"
 			]
+		},
+		{
+			"label":"JAKARTA",
+			"lines":[
+				"route_11"
+			]
+		},
+		{
+			"label":"MAGAGASCAR",
+			"lines":["route_10"]
 		}
 
 	]
