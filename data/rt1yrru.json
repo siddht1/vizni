@@ -121,12 +121,7 @@
 				"route_3"
 			]
 		},
-		{
-			"label": "CHN",
-			"lines": [
-				"route_3","route_4"
-			]
-		},
+
 
 		{
 			"label": "N BNG",
@@ -141,9 +136,15 @@
 			]
 		},
 		{
-			"label": "MAS",
+			"label": "KATPADI",
 			"lines": [
 				"route_4"
+			]
+		},
+				{
+			"label": "CHN",
+			"lines": [
+				"route_3","route_4"
 			]
 		}
 
