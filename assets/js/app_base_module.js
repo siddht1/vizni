@@ -1,7 +1,7 @@
 
 async function  __data()
 {
-  __file='/data/rt1yrru.json'
+  __file='/data/delhi.json'
    get_data(__file)
 
     
